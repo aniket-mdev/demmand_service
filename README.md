@@ -40,7 +40,7 @@
 ## Docker Installation
 ```
 1. system should have a docker install
-2. buidl a docker image by following a command
+2. build a docker image by following a command
     * docker build -t demmand_service . *
 3. to run a image
     * docker run -p 9000:9000 demmand_service*    
